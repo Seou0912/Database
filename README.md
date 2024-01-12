@@ -1,7 +1,7 @@
 # Database
 MySql 오류로 airbandbsms 무료 도구 dbdiagram.io 로 작성 하였습니다.
 https://dbdiagram.io/home 작성하기 쉽네요. Mysql 화일 가져다 import 하면 코드도 맞게 수정해주고 편합니다.
-![Untitled (3)](https://github.com/Seou0912/Database/assets/151927766/ec982421-e331-4677-b75d-6a8e67e9d967)
+![Untitled (4)](https://github.com/Seou0912/Database/assets/151927766/63f1f1d0-c072-4360-8b0e-f90b61c04a8a)
 
 ![MySQL workbench ERD](https://github.com/Seou0912/Database/assets/151927766/eb0f21c2-03fb-408f-ae81-a37fb0c51856)
 ![특정 제품 라인의 제품 조회](https://github.com/Seou0912/Database/assets/151927766/b49312f0-2a68-4fad-9cba-df9d000a36e1)

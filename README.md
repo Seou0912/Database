@@ -1,4 +1,5 @@
 # Database
+![MySQL workbench ERD](https://github.com/Seou0912/Database/assets/151927766/eb0f21c2-03fb-408f-ae81-a37fb0c51856)
 ![특정 제품 라인의 제품 조회](https://github.com/Seou0912/Database/assets/151927766/b49312f0-2a68-4fad-9cba-df9d000a36e1)
 ![최소금액조회](https://github.com/Seou0912/Database/assets/151927766/acbc0a04-2307-43c9-b26f-025d83dceb17)
 ![주문과 고객 정보 조합](https://github.com/Seou0912/Database/assets/151927766/502c6cf1-a78b-4bec-9494-da64de468d6f)
